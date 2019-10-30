@@ -1,0 +1,10 @@
+Obvious Password(Error Code 10)      Too Short Password (Error Code 20)	Low Complexity Password (Error Code 30)      john      Sun Oct 13 18:25:51 2019
+Valid Password (Error Code 0)      jack      Sun Oct 13 18:25:59 2019
+Too Short Password (Error Code 20)	Low Complexity Password (Error Code 30)      jo      Sun Oct 13 18:26:05 2019
+Too Short Password (Error Code 20)	Low Complexity Password (Error Code 30)      lat      Sun Oct 13 18:26:11 2019
+Valid Password (Error Code 0)      small      Sun Oct 13 18:26:19 2019
+Too Short Password (Error Code 20)	Low Complexity Password (Error Code 30)      Other Problems (Error Code 99)      evil      Sun Oct 13 18:26:29 2019
+Too Short Password (Error Code 20)	Low Complexity Password (Error Code 30)      make      Sun Oct 13 18:26:36 2019
+Too Short Password (Error Code 20)	Low Complexity Password (Error Code 30)      send      Sun Oct 13 18:26:44 2019
+Too Short Password (Error Code 20)	Mill      Sun Oct 13 18:26:50 2019
+Too Short Password (Error Code 20)	Low Complexity Password (Error Code 30)      Fall      Sun Oct 13 18:26:55 2019

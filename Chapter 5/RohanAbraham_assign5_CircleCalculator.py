@@ -1,40 +1,23 @@
 #Rohan Abraham
 #Circle Calculator
-from math import pi
-def compute_area(radius):
-    return radius**2 * pi
 
-def compute_perimeter(radius):
-    return radius * pi * 2
-
-def compute_diameter(radius):
-    return radius * 2
 
 
 def main():
 
-    print("Circle Calculator")
+    class color:
+   PURPLE = '\033[95m'
+   CYAN = '\033[96m'
+   DARKCYAN = '\033[36m'
+   BLUE = '\033[94m'
+   GREEN = '\033[92m'
+   YELLOW = '\033[93m'
+   RED = '\033[91m'
+   BOLD = '\033[1m'
+   UNDERLINE = '\033[4m'
+   END = '\033[0m'
 
-    radius = float(input("Enter the radius: "))
-
-    print("Would you like Area, Perimeter or Diameter?")
-    print("Enter: ")
-    print("   A for area")
-    print("   P for perimeter")
-    print("   D for diameter")
-    choice = input("Your choice: ")
-
-    if(choice == "A" or choice == "a"):
-        area = compute_area(radius)
-        print("The area is: ", area)
-    elif(choice == "P" or choice == "p"):
-        perimeter = compute_perimeter(radius)
-        print("The perimeter is: ", perimeter)
-    elif(choice == "D" or choice == "d"):
-        diameter = compute_diameter(radius)
-        print("The diameter is: ", diameter)
-    else:
-        print("An error occured. Try again")
+print(color.BOLD + 'Hello World !' + color.END)
 
 main()
     
