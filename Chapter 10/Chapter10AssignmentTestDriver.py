@@ -16,7 +16,7 @@ def test():
     print("Item #2 ", my_item2)
     print("Item #3 ", my_item3)
     print()
-    
+
     #test with one item
     print("*******Cash Register Tests*******")
     print("*******One item*******")
@@ -48,7 +48,5 @@ def test():
     my_register.show_items()
     print("Total price: $" + "%.2f" % my_register.get_total())
     print()
-    
-    
 
 test()

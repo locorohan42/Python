@@ -36,8 +36,3 @@ class RetailItem:
     def __str__(self):
         #Return the classes information as a string
         return "Description: " + self.__description + " Units in Inventory: " + str(self.__unitsInInventory) + " Price $"   + str("%.2f" % self.__price)
-
-   
-
-    
-        
