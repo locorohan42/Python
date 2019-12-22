@@ -17,6 +17,9 @@ def palindrome(string):
     #Code executes when it is not a palindrome
     return "This is not a palindrome. Good try."
 
+def print_encjdkf(text, offset):
+    print(text
+
 def main():
     #Base case
     print(palindrome(""))
